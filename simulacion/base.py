@@ -8,7 +8,7 @@ noise = rg.normal(mu,sigma,10000)
 plt.plot(noise)
 plt.show()
 N = 15
-f = 2E9 #base frequency
+EFE = 2E9 #base frequency
 c = 3E8 
 wavelength = c/f  
 n = 0:N-1 
