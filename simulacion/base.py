@@ -7,7 +7,7 @@ mu, sigma = 2, 0.5
 noise = rg.normal(mu,sigma,10000)
 plt.plot(noise)
 plt.show()
-a = 1
+a = 1000
 N = 15
 EFE = 2E9 #base frequency
 c = 3E8 
