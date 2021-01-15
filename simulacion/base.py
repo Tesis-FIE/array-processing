@@ -9,7 +9,7 @@ plt.plot(noise)
 plt.show()
 a = 1
 N = 15
-f = 2E9 #base frequency
+EFE = 2E9 #base frequency
 c = 3E8 
 wavelength = c/f  
 n = 0:N-1 
