@@ -3,3 +3,12 @@ la posicion en el espacio de un objeto, ya sea que este emita una señal
 o bien un sonido, se puede determinar asi mismo la forma que tiene este objeto?
 
 cual es la mejor manera de hacer un arreglo de sensores para esta situacion?
+
+
+2do intento:
+
+Problema: extracción de información de señales mediante arreglos de sensores.
+Pregunta: ¿Que información se puede extraer de una señal al utilizar arreglos de sensores?
+Objetivo general: recuperar una señal mediante un arreglo de sensores para determinar cuál es la totalidad de información que se puede obtener de esta, así como su utilidad.
+Recuperar una señal con distintos sensores en distintas posiciones, para generar una medición y resolver su utilidad.
+Motivación: es posible determinar la posición exacta de la fuente de una señal con un arreglo de sensores.
